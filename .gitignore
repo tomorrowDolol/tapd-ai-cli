@@ -37,4 +37,4 @@ tapd
 
 # Local config
 .tapd.json
-.omc
+.omc.env
